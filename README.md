@@ -30,3 +30,6 @@ npm install
 pm2 start index.js
    
 
+![image](https://github.com/fuckudev/lolztest/assets/154096609/c2555f2c-bdfa-4af2-93b9-22f266918fff)
+
+
