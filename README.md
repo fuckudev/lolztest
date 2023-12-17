@@ -15,17 +15,13 @@
 sudo apt update
 sudo apt install nodejs
 sudo apt install npm
-
 2. Клонирование репозитория:
 git clone <URL репозитория>
 cd <название папки проекта>
-
 3. Настройка файла config.js:
 Откройте файл config.js в вашем текстовом редакторе и укажите токен вашего телеграм-бота.
-
 4. Установка зависимостей:
 npm install
-
 5. Запуск программы:
 pm2 start index.js
    
